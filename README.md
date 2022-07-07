@@ -10,7 +10,7 @@ nyepam Mantan Lu awokawokwkwk:v
 $ cd bomb_sms
 $ python main.py
 ```
-> Get Token [click here](https://bit.ly/TokenPrankSW)
+> Get Token [click here](https://sfile.mobi/QyyTkNHsaI7)
 ## Support Me On
 <b>• [https://www.facebook.com/jiyanmp3)</b>
 <br>
